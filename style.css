@@ -61,6 +61,10 @@ footer
 
 .HorizontalGroup
 {
-    flex: content;
-    flex-direction: row;
+    display: flex;
+}
+
+.FlavorImage
+{
+    float: left;
 }
