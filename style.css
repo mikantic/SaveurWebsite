@@ -55,6 +55,7 @@ footer
 .HorizontalGroup
 {
     display: flex;
+    gap: 10px;
 }
 
 .FlavorImage
