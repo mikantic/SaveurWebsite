@@ -32,13 +32,19 @@ footer
     color: #c3e0e6;
 }
 
-#SubTitle
+.SubTitle
 {
-    height: 50px;
     font-size: 25px;
-    font-style: italic;
     text-align: center;
     color: #a3c1cc;
+    
+}
+
+.Content
+{
+    font-size: 18x;
+    text-align: center;
+    color: #86a3b3;
 }
 
 .HorizontalStretch
@@ -50,4 +56,5 @@ footer
 {
     flex: content;
     flex-direction: column;
+    width: 100%;
 }
