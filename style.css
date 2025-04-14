@@ -67,4 +67,12 @@ footer
 .FlavorImage
 {
     float: left;
+    width: 75px;
+}
+
+.FlavorSummary
+{
+    font-size: 18x;
+    text-align: center;
+    color: #86a3b3;
 }
