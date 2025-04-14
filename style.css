@@ -40,13 +40,6 @@ footer
     
 }
 
-.Content
-{
-    font-size: 18x;
-    text-align: center;
-    color: #86a3b3;
-}
-
 .HorizontalStretch
 {
     width: 100%;
@@ -67,7 +60,8 @@ footer
 .FlavorImage
 {
     float: left;
-    width: 75px;
+    height: auto;
+    width: 50px;
 }
 
 .FlavorSummary
