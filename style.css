@@ -22,9 +22,6 @@ footer
     width: 100%;
     height: 75px;
     background-color: #160d1a;
-
-    position: fixed;
-    bottom: 0;
 }
 
 #Title
@@ -47,4 +44,10 @@ footer
 .HorizontalStretch
 {
     width: 100%;
+}
+
+.VerticalGroup
+{
+    flex: content;
+    flex-direction: column;
 }
