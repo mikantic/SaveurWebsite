@@ -26,7 +26,20 @@ hr
     margin: 10px 5px;
 }
 
-.HeaderSpacer
+.TitleSection
+{
+    height: 100px;
+    text-align: center;
+}
+
+.LargeTitle
+{
+    font-size: 75px;
+    font-weight: bold;
+    color: #c3e0e6;
+}
+
+.Spacer
 {
     height: 75px;
 }
@@ -75,14 +88,14 @@ footer
 
 .SmallIcon
 {
-    height: 45px;
-    width: 45px;
+    height: 100px;
+    width: 100px;
 }
 
 .LargeIcon
 {
-    height: 75px;
-    width: 75px;
+    height: 150px;
+    width: 150px;
 }
 
 .List
