@@ -34,7 +34,7 @@ hr
 
 .LargeTitle
 {
-    font-size: 75px;
+    font-size: 100px;
     font-weight: bold;
     color: #c3e0e6;
 }
@@ -64,7 +64,7 @@ footer
     'abilities abilities'
     'activeTitle passiveTitle'
     'active passive';
-    gap: 10px;
+    gap: 10px 50px;
     padding: 10px;
 }
 
@@ -88,14 +88,14 @@ footer
 
 .SmallIcon
 {
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
 }
 
 .LargeIcon
 {
-    height: 150px;
-    width: 150px;
+    height: 200px;
+    width: 200px;
 }
 
 .List
