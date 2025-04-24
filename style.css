@@ -4,15 +4,17 @@ body
     padding: 0px;
 }
 
-#background {
+#Background
+{
     z-index: -1;
-    background-image: url(../public/images/background.jpg);
-    height: 100vh;
-    width: 100vw;
+    background-image: url(Images/Background.png);
+    height: 100%;
+    width: 100%;
     position: fixed;
     background-size: cover;
     background-position: center;
 }
+
 
 header
 {
